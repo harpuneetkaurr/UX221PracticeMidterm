@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/traditional-celebrations-with-family-and-friends/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cultural-and-religious-birthday-traditions/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/meaningful-personal-celebrations/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/birthday-blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/harpuneetkaurr/
+        </loc>
+    </url>
+</urlset>
